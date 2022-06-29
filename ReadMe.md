@@ -13,7 +13,7 @@ This is a project which looks at the availability of air b&b listings for Seattl
 * What amount of money is lost for each listing ID across the year?
 * Is it the price that is putting people off?
 
-The analyses showed that there is greater availability of properties in the spring and just before new year (December time). The average potential is around 7500-10000with the max showing at around 35000, and the minimum 5000. Finally there was a significant, positive corelation between the number of available properties and the price, suggesting that more expensive properties wer not booked as much. 
+The analyses showed that there is greater availability of properties in the spring and just before new year (December time). The average potential earning is around 7500-10000 with the max showing at around 35000, and the minimum 5000. Finally there was a significant, positive corelation between the number of available properties and the price, suggesting that more expensive properties wer not booked as much. 
 
 A full analysis of the data is conatined within the jupyter notebook in this repo and for a full discussion of the above questions please visit the blog post!
 
