@@ -1,9 +1,9 @@
 Project Description
 
-Libraries used:
-numpy == 1.23.0
-matplotlib == 3.1
-padas == 1.4.3
+- Libraries used:
+- numpy == 1.23.0
+- matplotlib == 3.1
+- padas == 1.4.3
 
 Files Used
 calendar.csv: Air BnB's Seattle data.
